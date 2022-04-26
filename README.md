@@ -1,2 +1,8 @@
-# Analysis-of-business-indicators
-# Research of data of the service "Yandex.Music" — comparison of users of two cities. # Objectives of the project:  Using real Yandex.Music data, using the Pandas library and its capabilities, it was necessary to check the data and compare the behavior and preferences of users of the two capitals – Moscow and St. Petersburg. # Project description:   Comparison of Moscow and St. Petersburg is surrounded by myths: - Moscow is a metropolis, subject to the rigid rhythm of the working week; - St. Petersburg is a city of peculiar culture, unlike Moscow. Some myths reflect reality. Others are empty stereotypes. Business must distinguish the former from the latter in order to make rational decisions. On the real data of Yandex.Music, I checked the data and compared the behavior of users of the two capitals # Skills and tools:  Pandas, Python.  Data processing, duplicates, gaps, logical indexing, grouping, sorting
+# Loss analysis of the ProcrastinatePRO+ app
+# Objectives of the project:  
+The task for the marketing analyst of the entertainment application Procrastinate Pro+. Despite the huge investment in advertising, the company has been suffering losses over the past few months. Your task is to understand the reasons and help the company to go into the black.
+# Project description: 
+Data from ProcrastinatePRO+ was analyzed.
+Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. Previously written functions for calculating metrics were used. Correct conclusions were drawn from the data obtained.
+ # Skills and tools:  
+ Python, Pandas, Matplotlib, cohort analysis, unit economics, product metrics, Seaborn
